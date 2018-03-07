@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.lang.Throwable"/>
+<fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="test4.Programmeur"/>
+<fullyQualifiedTypeName name="test4.Animal"/>
+<fullyQualifiedTypeName name="test4.Jumpable"/>
+<fullyQualifiedTypeName name="java.lang.Class"/>
+<fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+<fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+<fullyQualifiedTypeName name="packageA.ClassA"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="java.lang.NullPointerException"/>
+<fullyQualifiedTypeName name="PackageA.PrimitiveArray"/>
+<fullyQualifiedTypeName name="PackageA.InterfaceA"/>
+<fullyQualifiedTypeName name="PackageA.CreateString"/>
+<fullyQualifiedTypeName name="PackageA.Keeper"/>
+<fullyQualifiedTypeName name="PackageA.Verdediger"/>
+<fullyQualifiedTypeName name="PackageA.Middenvelder"/>
+<fullyQualifiedTypeName name="PackageA.Club"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+<fullyQualifiedTypeName name="test2.test2"/>
+<fullyQualifiedTypeName name="test2.Test2"/>
+</qualifiedTypeNameHistroy>

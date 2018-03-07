@@ -1,0 +1,27 @@
+package Datum20180307;
+
+public class GeenGeluid
+{
+	public static void main(String[] args)
+	{
+		GeenGeluid gg = new GeenGeluid();
+		gg.start();
+	
+		void start()
+		{
+		Versterker versterker = new Versterker();
+		versterker = true;
+
+		Spanning spanning = new Spanning();
+		try
+			{
+				spanning.geluid(versterker);
+			}
+		catch (Exception e)
+			{
+				System.out.println("de kabel zit er niet in");
+			}
+		}	
+		System.out.println("Ready.");
+	}
+}

@@ -1,0 +1,7 @@
+package Datum20180307;
+
+public class UitzonderingsProgramma {
+	public static void main(String args[]) {
+		System.out.println("tets");
+	}
+}
